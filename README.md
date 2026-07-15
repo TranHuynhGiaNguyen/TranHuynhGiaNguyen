@@ -105,11 +105,6 @@ I am a **Software Engineer** passionate about designing robust backend systems, 
 ## My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranHuynhGiaNguyen&show_icons=true&theme=tokyonight&description_lines=3" alt="Nguyen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuynhGiaNguyen&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranHuynhGiaNguyen&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
