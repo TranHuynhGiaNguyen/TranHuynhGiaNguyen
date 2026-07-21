@@ -101,15 +101,3 @@ I am a **Software Engineer** passionate about designing robust backend systems, 
 </table>
 
 ---
-
-## My GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranHuynhGiaNguyen&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-<p align="center">
-  From Vietnam with passion. Feel free to star my repositories if you find them interesting!
-</p>
